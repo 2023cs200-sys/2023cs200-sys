@@ -213,19 +213,13 @@ That's why I'm interested in:
 <p align="center">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/hashini-gayathri-suraweera-880baa3a9" target="_blank" style="display: inline-block; text-align: center; text-decoration: none; margin: 0 20px;">
-  <svg height="32" width="32" viewBox="0 0 24 24" fill="#ffffff" style="vertical-align: middle; background-color: #0A66C2; padding: 6px; border-radius: 6px;">
-    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
-  </svg>
-  <sub style="font-size: 13px; font-weight: 600; display: inline-block; margin-top: 6px;">LinkedIn</sub>
+<a href="https://www.linkedin.com/in/hashini-gayathri-suraweera-880baa3a9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <br><br>
 <!-- Portfolio / Website -->
-<a href="https://hashini-portfolio-orcin.vercel.app/" target="_blank" style="display: inline-block; text-align: center; text-decoration: none; margin: 0 20px;">
-  <svg height="32" width="32" viewBox="0 0 24 24" fill="#ffffff" style="vertical-align: middle; background-color: #00A98F; padding: 6px; border-radius: 6px;">
-    <path d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0zm0 2.05c2.75 0 5.27 1.02 7.21 2.71H14.5c-.55 0-1 .45-1 1s.45 1 1 1h5.36c.64 1.14 1.03 2.45 1.12 3.84H14c-.55 0-1 .45-1 1s.45 1 1 1h7.02c-.1 1.4-.5 2.7-1.14 3.86h-4.88c-.55 0-1 .45-1 1s.45 1 1 1h4.73c-1.93 1.7-4.45 2.71-7.19 2.71-5.5 0-9.95-4.45-9.95-9.95s4.45-9.95 9.95-9.95z"/>
-  </svg>
-  <sub style="font-size: 13px; font-weight: 600; display: inline-block; margin-top: 6px;">Portfolio</sub>
+<a href="https://hashini-portfolio-orcin.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>

@@ -4,15 +4,6 @@
 
 I'm a **Final-Year Computer Science undergraduate at the University of Colombo School of Computing (UCSC)**, who enjoys building practical software projects and exploring how systems work behind the scenes.
 
-I'm particularly interested in:
-
-* 🔐 Cybersecurity
-* ☁️ Cloud Computing & DevOps
-* 🤖 Machine Learning & AI
-* 💻 Software Engineering
-* 🌐 Web & Mobile Application Development
-* 🐧 Linux & Networking
-
 I enjoy learning by **building projects, experimenting in home labs, and documenting what I learn**.
 
 ---
